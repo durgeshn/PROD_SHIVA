@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/menu_hamburger-512.png</file>
+    <file>icons/setup_page_document_settings-512.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/Check-Mark-48.png</file>
+    <file>icons/Delete-48.png</file>
+    <file>icons/Add-48.png</file>
+    <file>icons/CD-New-48.png</file>
+    <file>icons/Command-Refresh-01-48.png</file>
+    <file>icons/Command-Refresh-128.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/Data-Edit-48.png</file>
+    <file>icons/Data-Export-48.png</file>
+    <file>icons/Data-Import-48.png</file>
+    <file>icons/Engineer-48.png</file>
+    <file>icons/Login-01-48.png</file>
+    <file>icons/Logout-48.png</file>
+    <file>icons/Positive-48.png</file>
+    <file>icons/Swap-Down-128.png</file>
+    <file>icons/User-Login-48.png</file>
+  </qresource>
+</RCC>
